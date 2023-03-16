@@ -1,0 +1,30 @@
+{
+  "name": "emasm",
+  "version": "0.2.0",
+  "description": "Ethereum macro assembler with JS API",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kungfuflex/emasm"
+  },
+  "keywords": [
+    "ethereum",
+    "macro",
+    "assembler"
+  ],
+  "author": "kungfuflex",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/raypulver/emasm#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^18.15.3",
+    "bn.js": "^5.0.0",
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
+    "typescript": "^4.9.5"
+  }
+}
