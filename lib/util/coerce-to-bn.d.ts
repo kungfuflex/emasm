@@ -1,3 +1,2 @@
-import BN from "bn.js";
-declare const coerceToBN: (n: any) => BN;
+declare const coerceToBN: (n: any) => any;
 export default coerceToBN;
