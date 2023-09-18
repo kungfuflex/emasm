@@ -59,6 +59,7 @@
  "msize": "59",
  "gas": "5a",
  "jumpdest": "5b",
+ "push0": "5f",
  "push": "60",
  "dup1": "80",
  "dup2": "81",
